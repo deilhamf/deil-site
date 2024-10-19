@@ -11,8 +11,9 @@ import { useGSAP } from '@gsap/react';
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
-
+/**
 import { useEffect } from "react";
+**/
 
 // Components
 import Header from "./components/Header";
@@ -25,7 +26,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 const App = () => {
-
+/**
     useEffect(() => {
         // Create and append the GTranslate wrapper div
         const wrapper = document.createElement('div');
@@ -59,7 +60,7 @@ const App = () => {
             document.body.removeChild(floatScript);
         };
     }, []); // Empty dependency array means this effect runs once on mount
-
+**/
     useGSAP(() => {
         const elements = gsap.utils.toArray('.reveal-up');
 
