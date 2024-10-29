@@ -7,6 +7,11 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
+        imgSrc: '/images/vs-code-svgrepo-com.svg',
+        label: 'VS Code',
+        desc: 'Code Editor'
+    },
+    {
         imgSrc: '/images/figma.svg',
         label: 'Figma',
         desc: 'Design tool'
