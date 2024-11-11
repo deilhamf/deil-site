@@ -36,7 +36,7 @@ const socials = [
     },
     {
         label: 'LinkedIn',
-        href: 'https://www.linkedin.com/'
+        href: 'https://www.linkedin.com/in/de-ilham-fachrezi-0bb677261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
     },
     // {
     //     label: 'Twitter X',
