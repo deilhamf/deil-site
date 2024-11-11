@@ -28,7 +28,7 @@ const Hero = () => {
                             <span className="relative w-2 h-2 rounded-full bg-emerald-400">
                                 <span className="absolute inset-0 rounded-full bg-emerald-400 animate-ping"></span>
                             </span>
-                            Sedang Gabut
+                            Open to work
                         </div>
                     </div>
                     <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
